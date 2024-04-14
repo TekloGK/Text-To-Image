@@ -1,8 +1,8 @@
-pyrogram
+pyrogram==2.0.105
 tgcrypto
 huggingface
 diffusers 
 transformers 
 accelerate
-torch==2.1.1
+torch==2.2.1
 python-dotenv
